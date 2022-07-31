@@ -9,7 +9,7 @@
 
 
 ### Multiple Regression of MPG Summary
-![lm_MPG_call](https://user-images.githubusercontent.com/102814578/182034847-60b46aec-c9da-44d5-943e-ec4b337ae64a.png)
+![summary_mpg_call](https://user-images.githubusercontent.com/102814578/182034949-b062d315-4681-4139-8c5a-aac9ba4270ef.png)
 
 
 ## Summary Statistics on Suspension Coils
